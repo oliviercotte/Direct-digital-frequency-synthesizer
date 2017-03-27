@@ -1,1 +1,1 @@
-# Direct-digital-synthesizer
+# Direct-digital-frequency-synthesizer
